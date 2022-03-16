@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VendingMachine": {
+      "commandName": "Project",
+      "commandLineArgs": "\"--currency eur\""
+    }
+  }
+}
